@@ -1,0 +1,7 @@
+app/scrapping/communes/data
+app/scrapping/historique/url_glassdoor.txt
+app/scrapping/historique/url_indeed.txt
+app/localisation_inconnues_glassdoor.txt
+app/files/doc/descriptions/company/*
+app/files/doc/descriptions/employee/*
+app/files/doc/descriptions/job/*

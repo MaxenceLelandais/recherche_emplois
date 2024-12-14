@@ -1,0 +1,49 @@
+[mysqld]
+# Utilisation de la mémoire
+max_connections = 50                     # Augmente les connexions simultanées en fonction de l'augmentation de la mémoire
+innodb_buffer_pool_size = 768M           # Le pool InnoDB utilise une large partie de la RAM, ici 768 Mo (environ 75% de la RAM totale)
+innodb_log_file_size = 128M              # Taille des fichiers de log InnoDB plus grande pour gérer plus de transactions
+innodb_log_buffer_size = 32M             # Augmente le buffer des logs InnoDB pour stocker plus de logs en mémoire
+tmp_table_size = 64M                     # Taille maximale pour les tables temporaires en mémoire
+max_heap_table_size = 64M                # Taille maximale des tables HEAP (en mémoire)
+
+# Optimisation des buffers réseau
+max_allowed_packet = 16M                 # Taille maximale des paquets autorisés à 16 Mo pour des requêtes volumineuses
+net_buffer_length = 16K                  # Taille du buffer réseau inchangée
+
+# Optimisation des buffers par requête
+sort_buffer_size = 2M                    # Buffer pour les tris par connexion, augmenté à 2 Mo
+read_buffer_size = 2M                    # Buffer de lecture séquentielle augmenté à 2 Mo
+read_rnd_buffer_size = 4M                # Buffer pour la lecture aléatoire après tri, augmenté à 4 Mo
+join_buffer_size = 2M                    # Buffer pour les jointures sans index, augmenté à 2 Mo
+
+# Threads et gestion des processeurs
+thread_cache_size = 8                    # Nombre de threads en cache pour réduire les frais de création de threads
+innodb_thread_concurrency = 16            # Limite le nombre de threads simultanés InnoDB (généralement égal au nombre de CPU)
+innodb_flush_log_at_trx_commit = 0       # Assure l'intégrité des transactions en écrivant à chaque commit (0 pour des performances maximales au détriment de la sécurité des transactions)
+
+
+# Nombre maximal de threads de travail (ajustez en fonction de votre CPU)
+innodb_read_io_threads = 8
+innodb_write_io_threads = 8
+
+
+# Paramètre de gestion des threads (par défaut 'one-thread-per-connection')
+thread_handling = pool-of-threads
+
+
+
+
+# Timeout de connexion ajusté
+wait_timeout = 60000                       # Timeout des connexions inactives après 10 minutes
+interactive_timeout = 60000                # Timeout des connexions interactives après 10 minutes
+
+# Journalisation désactivée pour éviter des écritures excessives
+slow_query_log = 0
+general_log = 0
+log_bin = 0
+
+# Désactivation du cache de requêtes
+query_cache_type = 0
+query_cache_size = 0
+

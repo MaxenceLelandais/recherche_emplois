@@ -1,0 +1,30 @@
+SELECT company.company_name, COUNT(job.id_job) AS job_count FROM company JOIN office ON office.id_company = company.id_company JOIN job ON job.id_office = office.id_office GROUP BY company.company_name ORDER BY `job_count` DESC
+SELECT id_interval, job_min_amount, job_max_amount FROM `job` WHERE job_min_amount>100000 OR job_max_amount>100000;
+
+SELECT YEAR(job_date_posted), MONTH(job_date_posted), COUNT(job.id_job) AS job_count FROM job GROUP BY YEAR(job_date_posted),MONTH(job_date_posted) ORDER BY `YEAR(job_date_posted)` desc, `MONTH(job_date_posted)` desc;
+
+
+SELECT company.company_name, title, COUNT(job.id_job) AS job_count, AVG(job_min_amount), AVG(job_max_amount) FROM company JOIN office ON office.id_company = company.id_company JOIN job ON job.id_office = office.id_office where job.id_interval=3 and 200<job_min_amount and job_min_amount<10000 and 200<job_max_amount and job_max_amount<10000 and title like '%ingénieur%'  GROUP BY company.company_name, title  
+ORDER BY `company`.`company_name` ASC
+
+SELECT job.id_job, job.title, job.job_min_amount, job.job_max_amount FROM job, office, `company` WHERE company.id_company=office.id_company and company.id_company=412 and office.id_office = job.id_office  
+ORDER BY `job`.`job_min_amount` DESC
+
+
+
+ALTER TABLE tablename AUTO_INCREMENT = 1
+
+
+UPDATE `job` SET `id_interval` = '2' WHERE `job`.`id_job` = 63;
+SELECT * FROM job WHERE job_min_amount>0 and job_min_amount<200 and id_interval>2;
+
+UPDATE `job` SET `id_interval` = '2' WHERE `job`.`id_job` in (SELECT id_job FROM job WHERE job_min_amount>0 and job_min_amount<100 and id_interval>2);
+SELECT * FROM job WHERE job_min_amount>100 and job_min_amount<10000 and not id_interval=3;
+
+UPDATE `job` SET `id_interval` = '3' WHERE `job`.`id_job` in (SELECT id_job FROM job WHERE job_min_amount>100 and job_min_amount<10000 and not id_interval=3);
+
+UPDATE `job` SET `id_interval` = '4' WHERE `job`.`id_job` in (SELECT id_job FROM job WHERE job_min_amount>10000 and not id_interval=4);
+
+UPDATE `job` SET `job_max_amount` = `job_min_amount` WHERE `job`.`id_job` in (SELECT id_job FROM job WHERE job_max_amount<job_min_amount);
+
+UPDATE `job` SET `job_max_amount` = SUBSTRING(`job_min_amount`, 5), `job_min_amount` = SUBSTRING(`job_min_amount`, 1,4) WHERE `job`.`id_job` in (SELECT id_job FROM job WHERE job_min_amount>10000000);

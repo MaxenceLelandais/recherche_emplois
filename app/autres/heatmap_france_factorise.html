@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <!-- Configurations pour Leaflet -->
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+
+    <!-- Styles de base -->
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+    </style>
+
+    <!-- Import des bibliothèques nécessaires -->
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    <style>
+        #map {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        .leaflet-container {
+            font-size: 1rem;
+        }
+    </style>
+    
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+
+<body>
+    <div class="folium-map" id="map"></div>
+</body>
+
+<script>
+    // Initialisation de la carte
+    var map = L.map("map", {
+        center: [46.603354, 1.888334],
+        crs: L.CRS.EPSG3857,
+        zoom: 6,
+        zoomControl: true,
+        preferCanvas: false,
+    });
+
+    // Couche de base OpenStreetMap
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors",
+        detectRetina: false,
+        maxNativeZoom: 19,
+        maxZoom: 19,
+        minZoom: 0,
+        noWrap: false,
+        opacity: 1,
+        subdomains: "abc",
+        tms: false
+    }).addTo(map);
+
+    // Fonction pour ajouter un marqueur avec popup et tooltip
+    function addMarkerToMap(map, coordinates, popupText, tooltipText) {
+        var marker = L.marker(coordinates).addTo(map);
+        var popup = L.popup({ maxWidth: 250 });
+        var popupContent = $(`<div style="width: 100%; height: 100%;">${popupText}</div>`)[0];
+        popup.setContent(popupContent);
+        marker.bindPopup(popup);
+        marker.bindTooltip(`<div>${tooltipText}</div>`, { sticky: true });
+		marker.addEventListener('click', function() {
+            var popupText = document.querySelectorAll('.leaflet-tooltip-left')[0].children[0].innerText.trim();
+			console.log(popupText);
+            window.pywebview.api.on_marker_click(popupText);
+        });
+	
+	}
+
+    // Fonction pour ajouter tous les marqueurs et la HeatMap
+    function addAll(map, locations) {
+        locations.forEach(loc => addMarkerToMap(map, loc.coords, loc.popup, loc.tooltip));
+        L.heatLayer(
+            locations.map(location => location.coords), {
+                blur: 15,
+                maxZoom: 18,
+                minOpacity: 0.5,
+                radius: 25
+            }
+        ).addTo(map);
+    }
+
+    // Fonction pour mettre à jour les points sur la carte
+    function updateLocations(newLocations) {
+        map.eachLayer(layer => {
+            if (layer instanceof L.Marker || layer instanceof L.HeatLayer) {
+                map.removeLayer(layer);  // Supprimer les anciens marqueurs et la HeatMap
+            }
+        });
+        addAll(map, newLocations);  // Ajouter les nouvelles données
+    }
+
+</script>
+</html>

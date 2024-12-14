@@ -1,0 +1,2193 @@
+en_cours:73
+Paris:445
+Marseille:1409
+Lyon:835
+Toulouse:2078
+Nice:1150
+Nantes:42
+Montpellier:1067
+Strasbourg:81
+Bordeaux:1155
+Lille:26
+Rennes:144
+Toulon:68
+Reims:37
+Saint Etienne:118
+Havre:151
+Dijon:377
+Grenoble:313
+Angers:11
+Villeurbanne:48
+Saint Denis:102
+Nimes:181
+Aix en Provence:177
+Clermont Ferrand:212
+Le Mans:34
+Brest:455
+Tours:92
+Amiens:20
+Annecy:310
+Limoges:27
+Metz:14
+Boulogne Billancourt:73
+Perpignan:55
+Besançon:0
+Orléans:0
+Rouen:120
+Montreuil:34
+Caen:39
+Argenteuil:30
+Mulhouse:65
+Saint Paul:4125
+Nancy:14
+Tourcoing:13
+Roubaix:7
+Nanterre:34
+Vitry sur Seine:21
+Créteil:0
+Avignon:62
+Poitiers:35
+Aubervilliers:9
+Asnieres sur Seine:16
+Colombes:6
+Dunkerque:3
+Aulnay sous Bois:21
+Saint Pierre:8
+Versailles:23
+Le Tampon:0
+Courbevoie:6
+Béziers:0
+La Rochelle:95
+Rueil Malmaison:5
+Cherbourg:17
+Champigny sur Marne:20
+Pau:75
+Mérignac:0
+Saint Maur des Fossés:6
+Antibes:53
+Fort de France:13
+Ajaccio:31
+Cannes:33
+Saint Nazaire:20
+Drancy:3
+Noisy le Grand:11
+Issy les Moulineaux:15
+Cergy:21
+Levallois Perret:0
+Colmar:0
+Calais:0
+Pessac:0
+Vénissieux:0
+Evry Courcouronnes:0
+Clichy:0
+Valence:0
+Ivry sur Seine:0
+Bourges:0
+Quimper:0
+Cayenne:0
+Antony:0
+Troyes:0
+La Seyne sur Mer:0
+Villeneuve d'Ascq:0
+Montauban:0
+Pantin:0
+Chambéry:0
+Niort:0
+Neuilly sur Seine:0
+Sarcelles:0
+Le Blanc Mesnil:0
+Maisons Alfort:0
+Lorient:0
+Villejuif:0
+Saint André:0
+Fréjus:0
+Beauvais:0
+Narbonne:0
+Meaux:0
+Hyeres:0
+Bobigny:0
+La Roche sur Yon:0
+Clamart:0
+Vannes:0
+Chelles:0
+Cholet:0
+Saint Louis:0
+Epinay sur Seine:0
+Saint Ouen sur Seine:0
+Saint Quentin:0
+Bondy:0
+Bayonne:0
+Corbeil Essonnes:0
+Cagnes sur Mer:0
+Vaulx en Velin:0
+Les Abymes:0
+Sevran:0
+Fontenay sous Bois:0
+Sartrouville:0
+Massy:0
+Arles:0
+Saint Laurent du Maroni:0
+Albi:0
+Laval:0
+Saint Herblain:0
+Gennevilliers:0
+Suresnes:0
+Saint Priest:0
+Vincennes:0
+Bastia:0
+Martigues:0
+Les Sables d'Olonne:0
+Grasse:0
+Montrouge:0
+Aubagne:0
+Saint Malo:0
+Evreux:0
+La Courneuve:0
+Blois:0
+Brive la Gaillarde:0
+Charleville Mézieres:0
+Meudon:0
+Carcassonne:0
+Choisy le Roi:0
+Noisy le Sec:0
+Livry Gargan:0
+Rosny sous Bois:0
+Talence:0
+Belfort:0
+Alfortville:0
+Chalon sur Saone:0
+Salon de Provence:0
+Sete:0
+Istres:0
+Mantes la Jolie:0
+Saint Germain en Laye:0
+Saint Brieuc:0
+Tarbes:0
+Ales:0
+Chalons en Champagne:0
+Bagneux:0
+Puteaux:0
+Caluire et Cuire:0
+Bron:0
+Rezé:0
+Valenciennes:0
+Chateauroux:0
+Garges les Gonesse:0
+Castres:0
+Arras:0
+Melun:0
+Thionville:0
+Le Cannet:0
+Bourg en Bresse:0
+Anglet:0
+Angouleme:0
+Boulogne sur Mer:0
+Wattrelos:0
+Villenave d'Ornon:0
+Gap:0
+Montélimar:0
+Compiegne:0
+Stains:0
+Gagny:0
+Colomiers:0
+Poissy:0
+Draguignan:0
+Douai:0
+Le Lamentin:0
+Bagnolet:0
+Marcq en Baroeul:0
+Saint Joseph:0
+Villepinte:0
+Saint Martin d'Heres:0
+Chartres:0
+Pontault Combault:0
+Joué les Tours:0
+Annemasse:0
+Oullins Pierre Bénite:0
+Neuilly sur Marne:0
+Franconville:0
+Savigny sur Orge:0
+Tremblay en France:0
+Thonon les Bains:0
+Saint Benoit:0
+La Ciotat:0
+Echirolles:0
+Chatillon:0
+Athis Mons:0
+Six Fours les Plages:0
+Creil:0
+Saint Raphaël:0
+Conflans Sainte Honorine:0
+Villefranche sur Saone:0
+Meyzieu:0
+Sainte Genevieve des Bois:0
+Haguenau:0
+Vitrolles:0
+Villeneuve Saint Georges:0
+La Possession:0
+Saint Chamond:0
+Chatenay Malabry:0
+Saint Leu:0
+Palaiseau:0
+Matoury:0
+Auxerre:0
+Roanne:0
+Macon:0
+Sainte Marie:0
+Le Perreux sur Marne:0
+Schiltigheim:0
+Les Mureaux:0
+Trappes:0
+Nogent sur Marne:0
+Houilles:0
+Montluçon:0
+Le Port:0
+Romainville:0
+Marignane:0
+Romans sur Isere:0
+Nevers:0
+Lens:0
+Saint Médard en Jalles:0
+Agen:0
+Pierrefitte sur Seine:0
+Epinal:0
+Bezons:0
+Aix les Bains:0
+Montigny le Bretonneux:0
+Herblay sur Seine:0
+Cambrai:0
+L'Haÿ les Roses:0
+Plaisir:0
+Pontoise:0
+Chatellerault:0
+Rillieux la Pape:0
+Thiais:0
+Vienne:0
+Vigneux sur Seine:0
+Viry Chatillon:0
+Saint Laurent du Var:0
+Le Chesnay Rocquencourt:0
+Baie Mahault:0
+Dreux:0
+Begles:0
+Carpentras:0
+Goussainville:0
+Mont de Marsan:0
+Villiers sur Marne:0
+Cachan:0
+Savigny le Temple:0
+Menton:0
+Villemomble:0
+Malakoff:0
+Liévin:0
+La Garenne Colombes:0
+Ris Orangis:0
+Bois Colombes:0
+Clichy sous Bois:0
+Décines Charpieu:0
+Saint Cloud:0
+Chatou:0
+Bourgoin Jallieu:0
+Vandoeuvre les Nancy:0
+Périgueux:0
+Charenton le Pont:0
+Tournefeuille:0
+Guyancourt:0
+Le Plessis Robinson:0
+Draveil:0
+Agde:0
+Maubeuge:0
+Ermont:0
+Sotteville les Rouen:0
+Orange:0
+Villiers le Bel:0
+Fresnes:0
+Soissons:0
+Yerres:0
+Saint Etienne du Rouvray:0
+Dieppe:0
+Saint Sébastien sur Loire:0
+Vallauris:0
+Vanves:0
+Limeil Brévannes:0
+Montfermeil:0
+Orvault:0
+Sucy en Brie:0
+Remire Montjoly:0
+Grigny:0
+Le Gosier:0
+Lambersart:0
+Illkirch Graffenstaden:0
+Brétigny sur Orge:0
+Sens:0
+Taverny:0
+Villeparisis:0
+Rambouillet:0
+Cenon:0
+Sannois:0
+Cormeilles en Parisis:0
+Bussy Saint Georges:0
+La Teste de Buch:0
+Etampes:0
+Blagnac:0
+Miramas:0
+Bergerac:0
+Saumur:0
+Lunel:0
+Elancourt:0
+Hénin Beaumont:0
+Vertou:0
+Le Grand Quevilly:0
+Gonesse:0
+Cavaillon:0
+La Garde:0
+Gradignan:0
+Aurillac:0
+Sevremoine:0
+Vichy:0
+Biarritz:0
+Champs sur Marne:0
+Armentieres:0
+Montbéliard:0
+Alençon:0
+Saintes:0
+Brunoy:0
+Eaubonne:0
+Villeneuve la Garenne:0
+Vierzon:0
+Les Ulis:0
+Muret:0
+Saint Ouen l'Aumone:0
+Béthune:0
+Castelnau le Lez:0
+Fontenay aux Roses:0
+Kourou:0
+Libourne:0
+Vernon:0
+Orly:0
+Le Kremlin Bicetre:0
+Eysines:0
+Le Bouscat:0
+Sainte Suzanne:0
+Sainte Anne:0
+Petit Bourg:0
+Rodez:0
+Les Pavillons sous Bois:0
+Laon:0
+La Valette du Var:0
+Frontignan:0
+Montgeron:0
+Dole:0
+Beaupréau en Mauges:0
+Les Lilas:0
+Lormont:0
+Rochefort:0
+Maisons Laffitte:0
+Saint Dizier:0
+Roissy en Brie:0
+Couëron:0
+Auch:0
+Lanester:0
+Loos:0
+Manosque:0
+Fontaine:0
+Olivet:0
+Dammarie les Lys:0
+Vélizy Villacoublay:0
+Tassin la Demi Lune:0
+Le Moule:0
+Sevres:0
+Montigny les Cormeilles:0
+Abbeville:0
+Deuil la Barre:0
+Challans:0
+La Madeleine:0
+Torcy:0
+Gujan Mestras:0
+Gif sur Yvette:0
+Oyonnax:0
+Montereau Fault Yonne:0
+Combs la Ville:0
+Hérouville Saint Clair:0
+Les Pennes Mirabeau:0
+Epernay:0
+Montmorency:0
+Sainte Foy les Lyon:0
+Montigny les Metz:0
+Bruay la Buissiere:0
+Le Petit Quevilly:0
+Millau:0
+Saint Jean de Braye:0
+Chaumont:0
+Villeneuve sur Lot:0
+Mandelieu la Napoule:0
+Arcueil:0
+Hazebrouck:0
+Allauch:0
+Mons en Baroeul:0
+Fleury les Aubrais:0
+Saint Michel sur Orge:0
+Neuilly Plaisance:0
+Chemillé en Anjou:0
+Nogent sur Oise:0
+Mantes la Ville:0
+Acheres:0
+Dax:0
+Le Robert:0
+Saint Mandé:0
+Lagny sur Marne:0
+Gardanne:0
+Forbach:0
+Villeneuve le Roi:0
+Saint Cyr l'Ecole:0
+Saint Genis Laval:0
+Voiron:0
+Saint Gratien:0
+Wasquehal:0
+Halluin:0
+Bourg la Reine:0
+Morsang sur Orge:0
+Croix:0
+Coudekerque Branche:0
+Le Creusot:0
+Ozoir la Ferriere:0
+Givors:0
+Fougeres:0
+Denain:0
+Mitry Mory:0
+Sarreguemines:0
+Longjumeau:0
+Concarneau:0
+Montaigu Vendée:0
+Carquefou:0
+Sceaux:0
+La Celle Saint Cloud:0
+Joinville le Pont:0
+Bouguenais:0
+Lannion:0
+Cugnaux:0
+Grande Synthe:0
+La Chapelle sur Erdre:0
+Chevilly Larue:0
+Lingolsheim:0
+Le Plessis Trévise:0
+Bruges:0
+Le Mée sur Seine:0
+Cournon d'Auvergne:0
+Cahors:0
+Mont Saint Aignan:0
+Beaune:0
+Pertuis:0
+Chaville:0
+L'Isle sur la Sorgue:0
+Plaisance du Touch:0
+Chilly Mazarin:0
+Bressuire:0
+Albertville:0
+Lisieux:0
+Mougins:0
+Bruz:0
+Bourg les Valence:0
+Ronchin:0
+Vence:0
+Saint Lo:0
+Saint Fons:0
+Moulins:0
+Schoelcher:0
+Saint Dié des Vosges:0
+Sélestat:0
+Brie Comte Robert:0
+La Crau:0
+Sorgues:0
+Villefontaine:0
+Gentilly:0
+Royan:0
+Vitré:0
+Macouria:0
+Bonneuil sur Marne:0
+Riom:0
+Hem:0
+Le Puy en Velay:0
+Maurepas:0
+Ploemeur:0
+Meylan:0
+Lamentin:0
+Eragny:0
+Cognac:0
+Juvisy sur Orge:0
+Chennevieres sur Marne:0
+Ecully:0
+Louviers:0
+Mauges sur Loire:0
+Carrieres sous Poissy:0
+Moissy Cramayel:0
+Bagnols sur Ceze:0
+Romorantin Lanthenay:0
+Faches Thumesnil:0
+Fécamp:0
+Soisy sous Montmorency:0
+Bischheim:0
+Ducos:0
+Pornic:0
+Chateauneuf les Martigues:0
+Garches:0
+Carvin:0
+Pontarlier:0
+Hendaye:0
+Lunéville:0
+Floirac:0
+Capesterre Belle Eau:0
+Cesson Sévigné:0
+Segré en Anjou Bleu:0
+Avion:0
+Brignoles:0
+Saint Maximin la Sainte Baume:0
+Sainte Rose:0
+Limay:0
+Boissy Saint Léger:0
+Le Pontet:0
+Lattes:0
+Chamalieres:0
+Yutz:0
+Bry sur Marne:0
+Balma:0
+Osny:0
+Sanary sur Mer:0
+Marmande:0
+Les Clayes sous Bois:0
+L'Isle d'Abeau:0
+Digne les Bains:0
+Jouy le Moutier:0
+Cluses:0
+Firminy:0
+Vire Normandie:0
+Sallanches:0
+Lons le Saunier:0
+Saint Cyr sur Loire:0
+Saint Egreve:0
+Viroflay:0
+Annonay:0
+Le Pré Saint Gervais:0
+Lamballe Armor:0
+Montceau les Mines:0
+Ambares et Lagrave:0
+Cestas:0
+Villeneuve Loubet:0
+Chateau Gontier sur Mayenne:0
+Orée d'Anjou:0
+Verdun:0
+Saran:0
+Chateaurenard:0
+Sedan:0
+Mauguio:0
+Saint Jean de la Ruelle:0
+Marly le Roi:0
+La Baule Escoublac:0
+Les Herbiers:0
+Loire Authion:0
+Pamiers:0
+Valserhone:0
+Landerneau:0
+Guérande:0
+Port de Bouc:0
+Domont:0
+Montbrison:0
+Vauréal:0
+Orsay:0
+Blanquefort:0
+Rumilly:0
+Le François:0
+Saint Amand les Eaux:0
+Saint Leu la Foret:0
+Hayange:0
+Elbeuf:0
+Fontainebleau:0
+Verneuil sur Seine:0
+Saint Pierre des Corps:0
+Morne à l'Eau:0
+Toul:0
+Saint Julien en Genevois:0
+Le Pecq:0
+Montrevault sur Èvre:0
+Vendome:0
+Hennebont:0
+Mennecy:0
+Beaucaire:0
+Gaillac:0
+Le Vésinet:0
+Sin le Noble:0
+Lucé:0
+Wattignies:0
+Sainte Luce sur Loire:0
+Fos sur Mer:0
+Noisiel:0
+Guipavas:0
+Montivilliers:0
+Bois d'Arcy:0
+Tarascon:0
+Saint Just Saint Rambert:0
+Trélazé:0
+Wittenheim:0
+Senlis:0
+Coulommiers:0
+Bouc Bel Air:0
+Rive de Gier:0
+Saint Brice sous Foret:0
+Francheville:0
+Chateau Thierry:0
+Longwy:0
+Vesoul:0
+Montargis:0
+Saint Avold:0
+Carrieres sur Seine:0
+Issoire:0
+Saint Avertin:0
+Ramonville Saint Agne:0
+Avrillé:0
+La Fleche:0
+Castanet Tolosan:0
+Morlaix:0
+Le Raincy:0
+Bailleul:0
+Ambérieu en Bugey:0
+Le Bourget:0
+Illzach:0
+Fameck:0
+Montmagny:0
+Pontivy:0
+Romilly sur Seine:0
+Villers les Nancy:0
+Haubourdin:0
+Plérin:0
+Dinan:0
+Laxou:0
+Bar le Duc:0
+Saint Omer:0
+Lognes:0
+Saint Maurice:0
+Saint Jean de Luz:0
+Verrieres le Buisson:0
+Arnouville:0
+Saint Genis Pouilly:0
+Biscarrosse:0
+Saint Fargeau Ponthierry:0
+Montesson:0
+Pointe à Pitre:0
+Valenton:0
+Flers:0
+Roquebrune sur Argens:0
+Chenove:0
+Sainte Maxime:0
+Saint Brevin les Pins:0
+Pont à Mousson:0
+Méru:0
+Saint Paul les Dax:0
+Woippy:0
+Saint Gilles:0
+Bois Guillaume:0
+Auray:0
+Crépy en Valois:0
+Hautmont:0
+Castelsarrasin:0
+Douarnenez:0
+Caudry:0
+Ollioules:0
+Thouars:0
+Persan:0
+Tulle:0
+Fleury Mérogis:0
+Canteleu:0
+Audincourt:0
+Montévrain:0
+Lons:0
+Berre l'Etang:0
+Billere:0
+L'Etang Salé:0
+Lieusaint:0
+Pierrelatte:0
+Rixheim:0
+Lys lez Lannoy:0
+Roncq:0
+Saint Orens de Gameville:0
+Moissac:0
+Saint Martin de Crau:0
+Mions:0
+Montataire:0
+Avon:0
+Saint Jacques de la Lande:0
+Bollene:0
+Belleville en Beaujolais:0
+Vaires sur Marne:0
+Lourdes:0
+Genas:0
+Plouzané:0
+Fontenay le Comte:0
+Fontenay le Fleury:0
+Plougastel Daoulas:0
+Tergnier:0
+Anzin:0
+Gien:0
+Bras Panon:0
+Ostwald:0
+Berck:0
+Argentan:0
+Carros:0
+Outreau:0
+Amilly:0
+Andrésy:0
+Morangis:0
+Nemours:0
+Kingersheim:0
+Mouvaux:0
+Graulhet:0
+Autun:0
+Monteux:0
+Gex:0
+Freyming Merlebach:0
+Saint François:0
+Noyon:0
+Saint André lez Lille:0
+Amboise:0
+Tarnos:0
+Chateaudun:0
+Cusset:0
+Mayenne:0
+Bonneville:0
+Saint André de Cubzac:0
+Guéret:0
+Auriol:0
+Seclin:0
+Juvignac:0
+Bayeux:0
+Saint André les Vergers:0
+Valbonne:0
+Chalette sur Loing:0
+Les Ponts de Cé:0
+Betton:0
+Saint Hilaire de Riez:0
+Beausoleil:0
+Comines:0
+Meze:0
+Villetaneuse:0
+Val de Reuil:0
+Petite Île:0
+Villeneuve les Avignon:0
+Canet en Roussillon:0
+Yzeure:0
+Moret Loing et Orvanne:0
+Granville:0
+Vidauban:0
+Saint Jean de Védas:0
+Cuers:0
+Fonsorbes:0
+Creutzwald:0
+Andernos les Bains:0
+Pont du Chateau:0
+Vernouillet:0
+Castelnaudary:0
+Bischwiller:0
+Triel sur Seine:0
+Brignais:0
+Roquebrune Cap Martin:0
+Oissel:0
+Aubenas:0
+Sarrebourg:0
+L'Union:0
+Aubergenville:0
+Harnes:0
+Mende:0
+Quimperlé:0
+La Motte Servolex:0
+La Chapelle Saint Luc:0
+Pont Sainte Maxence:0
+Claye Souilly:0
+Bully les Mines:0
+Obernai:0
+Chateaubriant:0
+Rognac:0
+Riedisheim:0
+Barentin:0
+Pornichet:0
+Saint Cyr sur Mer:0
+Sablé sur Sarthe:0
+Louvres:0
+La Queue en Brie:0
+Sollies Pont:0
+Le Chambon Feugerolles:0
+Raismes:0
+Marly:0
+Ifs:0
+Provins:0
+Guidel:0
+Saint Avé:0
+Gisors:0
+Pacé:0
+Craponne:0
+Talant:0
+Riviere Salée:0
+Onet le Chateau:0
+Epinay sous Sénart:0
+Florange:0
+L'Isle Adam:0
+Maizieres les Metz:0
+Le Relecq Kerhuon:0
+Somain:0
+Vauvert:0
+Mana:0
+Cogolin:0
+Baugé en Anjou:0
+Seyssinet Pariset:0
+La Trinité:0
+Cernay:0
+Septemes les Vallons:0
+Villefranche de Rouergue:0
+Riviere Pilote:0
+Saint Pierre du Perray:0
+Sassenage:0
+Villecresnes:0
+Bolbec:0
+Thiers:0
+Saint Gaudens:0
+Chambray les Tours:0
+Le Haillan:0
+Saint Esteve:0
+Noeux les Mines:0
+Chauny:0
+Hoenheim:0
+Mios:0
+Vedene:0
+Fourmies:0
+Vitry le François:0
+La Londe les Maures:0
+Enghien les Bains:0
+Les Avirons:0
+Méricourt:0
+Saint Cyprien:0
+Plan de Cuques:0
+Saverne:0
+Saint Junien:0
+Yvetot:0
+Ploufragan:0
+Dugny:0
+Bruay sur l'Escaut:0
+Saint Germain les Arpajon:0
+Arpajon:0
+Dourdan:0
+Dammartin en Goële:0
+La Roche sur Foron:0
+Arcachon:0
+Saint Jean:0
+Porto Vecchio:0
+Doué en Anjou:0
+Gravelines:0
+La Hague:0
+Marquette lez Lille:0
+Guilherand Granges:0
+Tournon sur Rhone:0
+Vaux le Pénil:0
+Villepreux:0
+Cesson:0
+Guebwiller:0
+Saint Saulve:0
+Ancenis Saint Géréon:0
+Biganos:0
+Chassieu:0
+Pontchateau:0
+Passy:0
+Stiring Wendel:0
+Panazol:0
+Mainvilliers:0
+Le Luc:0
+Montlouis sur Loire:0
+Riorges:0
+Maromme:0
+Allonnes:0
+Saint Martin Boulogne:0
+Issoudun:0
+Lézignan Corbieres:0
+Chevigny Saint Sauveur:0
+Corbas:0
+Etaples:0
+Ferney Voltaire:0
+Brissac Loire Aubance:0
+Erstein:0
+Castelginest:0
+Bondoufle:0
+Lavaur:0
+Amnéville:0
+Le Pont de Claix:0
+Wambrechies:0
+Argeles sur Mer:0
+Thouaré sur Loire:0
+Annoeullin:0
+Valentigney:0
+Epinay sur Orge:0
+Déville les Rouen:0
+Fondettes:0
+Chanteloup les Vignes:0
+Pia:0
+Le Pradet:0
+Le Taillan Médoc:0
+Voisins le Bretonneux:0
+Léognan:0
+Saint Claude:0
+Boulazac Isle Manoire:0
+Ville d'Avray:0
+Orthez:0
+Trets:0
+Chantilly:0
+Beaumont:0
+Pernes les Fontaines:0
+Oloron Sainte Marie:0
+Pont Saint Esprit:0
+Longuenesse:0
+Briançon:0
+Pélissanne:0
+Tinqueux:0
+Urrugne:0
+Ormesson sur Marne:0
+Saint Gély du Fesc:0
+Apt:0
+Mouans Sartoux:0
+Chateaugiron:0
+Sainte Savine:0
+Marck:0
+Héricourt:0
+Clermont:0
+Villers Cotterets:0
+Vieux Condé:0
+Tarare:0
+Portes les Valence:0
+Thorigny sur Marne:0
+Villeneuve les Maguelone:0
+Croissy sur Seine:0
+Port Jérome sur Seine:0
+Villeneuve Tolosane:0
+Jeumont:0
+Cabestany:0
+Wittelsheim:0
+La Riche:0
+Villebon sur Yvette:0
+Limoux:0
+Charvieu Chavagneux:0
+Saint Esprit:0
+Gerzat:0
+Avranches:0
+Brumath:0
+Pfastatt:0
+Chantepie:0
+Treillieres:0
+Miribel:0
+Carentan les Marais:0
+Dinard:0
+La Chapelle Saint Mesmin:0
+Igny:0
+Aubiere:0
+Oignies:0
+Douchy les Mines:0
+Courrieres:0
+Blain:0
+Andrézieux Bouthéon:0
+Gaillard:0
+Neuville en Ferrain:0
+Aizenay:0
+Parempuyre:0
+Divonne les Bains:0
+Caudebec les Elbeuf:0
+Auterive:0
+Fuveau:0
+Buxerolles:0
+Fouesnant:0
+Gignac la Nerthe:0
+Mondeville:0
+Saint Max:0
+Cabries:0
+Villerupt:0
+Mazamet:0
+Auchel:0
+Parthenay:0
+Méry sur Oise:0
+Saint Laurent de la Salanque:0
+Le Beausset:0
+Saint Loubes:0
+Pierrelaye:0
+Aniche:0
+Soyaux:0
+Lambesc:0
+Lillers:0
+Chambly:0
+Eybens:0
+Fosses:0
+Maxéville:0
+Carmaux:0
+Biot:0
+Ploërmel:0
+Gros Morne:0
+Vétraz Monthoux:0
+Saint Pierre du Mont:0
+Montigny en Gohelle:0
+Roche la Moliere:0
+Feyzin:0
+Pont Audemer:0
+Saint Grégoire:0
+Couzeix:0
+Apatou:0
+Portet sur Garonne:0
+Seysses:0
+Albert:0
+Basse Terre:0
+Figeac:0
+Loudéac:0
+Voreppe:0
+Ingré:0
+Darnétal:0
+Grand Couronne:0
+La Ferté sous Jouarre:0
+Bondues:0
+Serris:0
+Rombas:0
+Saint Lys:0
+Borgo:0
+Revel:0
+La Farlede:0
+Arques:0
+Merville:0
+Sallaumines:0
+Le Muy:0
+Saint Doulchard:0
+Dombasle sur Meurthe:0
+Petit Caux:0
+Bernay:0
+Saint Rémy de Provence:0
+Beaumont sur Oise:0
+Leers:0
+Aire sur la Lys:0
+Mézidon Vallée d'Auge:0
+Bourg de Péage:0
+Aytré:0
+Saint Sulpice la Pointe:0
+Ezanville:0
+Pérols:0
+Basse Goulaine:0
+Filliere:0
+Lorgues:0
+Le Rheu:0
+Crosne:0
+Lescar:0
+Luçon:0
+Quincy sous Sénart:0
+Léguevin:0
+Foix:0
+Vallet:0
+Saint Barthélemy d'Anjou:0
+Saint Amand Montrond:0
+Frouzins:0
+Cosne Cours sur Loire:0
+Elne:0
+Carqueiranne:0
+Condé sur l'Escaut:0
+Saint Philbert de Grand Lieu:0
+Magny les Hameaux:0
+Saint Jean le Blanc:0
+Jarville la Malgrange:0
+Le Passage:0
+Audenge:0
+Molsheim:0
+Sainte Luce:0
+Savenay:0
+Aucamville:0
+Valréas:0
+Nogent le Rotrou:0
+Lançon Provence:0
+Tonneins:0
+Ouistreham:0
+Nort sur Erdre:0
+L'Isle Jourdain:0
+Hagondange:0
+Redon:0
+Saint Jean d'Illac:0
+Livron sur Drome:0
+Le Cres:0
+Clermont l'Hérault:0
+Launaguet:0
+Bures sur Yvette:0
+Escaudain:0
+Lesquin:0
+Paray le Monial:0
+Belley:0
+Joigny:0
+Evian les Bains:0
+Mont Saint Martin:0
+Landivisiau:0
+Capbreton:0
+Varennes Vauzelles:0
+Maripasoula:0
+Ville la Grand:0
+Ussel:0
+Beauchamp:0
+Grand Santi:0
+Beuvry:0
+Rivesaltes:0
+Pithiviers:0
+Magny le Hongre:0
+Prévessin Moëns:0
+Scionzier:0
+Chaponost:0
+La Ravoire:0
+Meulan en Yvelines:0
+Bougival:0
+Les Sorinieres:0
+Tomblaine:0
+Le Teich:0
+Guichen:0
+Lamorlaye:0
+Veauche:0
+Sarzeau:0
+Grabels:0
+Gonfreville l'Orcher:0
+Grenade:0
+Cébazat:0
+Séné:0
+Monistrol sur Loire:0
+Gouvieux:0
+Morieres les Avignon:0
+Le Teil:0
+Nangis:0
+Le Portel:0
+Breuillet:0
+Quetigny:0
+Irigny:0
+La Fare les Oliviers:0
+Ombrée d'Anjou:0
+Le Thor:0
+Bellerive sur Allier:0
+Golbey:0
+Fontaine les Dijon:0
+Dardilly:0
+Vert Saint Denis:0
+Sarlat la Canéda:0
+Boucau:0
+Chécy:0
+La Ferté Bernard:0
+Rouvroy:0
+Entraigues sur la Sorgue:0
+Quéven:0
+Essey les Nancy:0
+Poisy:0
+Saint Paul Trois Chateaux:0
+Aulnoye Aymeries:0
+Crest:0
+Souleuvre en Bocage:0
+Wingles:0
+Saint Jean de Monts:0
+Périgny:0
+Lillebonne:0
+Les Hauts d'Anjou:0
+Onnaing:0
+La Chapelle d'Armentieres:0
+Margny les Compiegne:0
+Velaux:0
+Petit Couronne:0
+Aigues Mortes:0
+Pibrac:0
+Longvic:0
+Roquevaire:0
+Montlhéry:0
+Coutras:0
+Domérat:0
+L'Île Saint Denis:0
+Lempdes:0
+Hirson:0
+Isbergues:0
+Le Loroux Bottereau:0
+Artigues pres Bordeaux:0
+Saint Chamas:0
+Chamonix Mont Blanc:0
+Le Poiré sur Vie:0
+Mauléon:0
+Roussillon:0
+Plabennec:0
+Le Marin:0
+Vif:0
+Thorigné Fouillard:0
+La Grande Motte:0
+Janzé:0
+Vaucresson:0
+Gretz Armainvilliers:0
+Ergué Gabéric:0
+Privas:0
+La Salvetat Saint Gilles:0
+Pérenchies:0
+Thaon les Vosges:0
+Sautron:0
+Evron:0
+Liffré:0
+Saint Vallier:0
+Les Angles:0
+Unieux:0
+Le Vauclin:0
+Marguerittes:0
+Gennes Val de Loire:0
+Orchies:0
+Epagny Metz Tessy:0
+Trégueux:0
+Chantonnay:0
+Port Saint Louis du Rhone:0
+Le Grau du Roi:0
+Marcoussis:0
+Saint Aubin les Elbeuf:0
+Venelles:0
+Soustons:0
+Groslay:0
+Chateauneuf sur Loire:0
+Theix Noyalo:0
+Pont l'Abbé:0
+Le Plessis Bouchard:0
+Téteghem Coudekerque Village:0
+Vendin le Vieil:0
+Uzes:0
+Saint Renan:0
+Coutances:0
+Tournan en Brie:0
+Feurs:0
+Larmor Plage:0
+Crolles:0
+Harfleur:0
+Bandol:0
+Carbon Blanc:0
+Varces Allieres et Risset:0
+Saint Pierre les Elbeuf:0
+Peymeinade:0
+Chartres de Bretagne:0
+Vern sur Seiche:0
+Pignan:0
+Eguilles:0
+Ballan Miré:0
+Courcelles les Lens:0
+Petit Canal:0
+Bihorel:0
+Puget sur Argens:0
+Tonnay Charente:0
+Lege Cap Ferret:0
+Linselles:0
+Bormes les Mimosas:0
+Thuir:0
+Bessancourt:0
+Brunstatt Didenheim:0
+Reignier Esery:0
+Guilers:0
+Cornebarrieu:0
+Talmont Saint Hilaire:0
+Bouaye:0
+Libercourt:0
+La Tour du Pin:0
+Jarny:0
+Sérignan:0
+Souffelweyersheim:0
+Billy Montigny:0
+Donges:0
+Trignac:0
+Meximieux:0
+La Colle sur Loup:0
+La Ville du Bois:0
+Mazingarbe:0
+Vineuil:0
+Chinon:0
+Languidic:0
+La Ricamarie:0
+Pégomas:0
+Sorbiers:0
+Malemort:0
+Le Malesherbois:0
+Coulaines:0
+Questembert:0
+Champagnole:0
+Seyssins:0
+Val de Briey:0
+Saint Affrique:0
+Wintzenheim:0
+Aureilhan:0
+Boussy Saint Antoine:0
+Le Mesnil Esnard:0
+Saint Gilles Croix de Vie:0
+Charnay les Macon:0
+Saint Vincent de Tyrosse:0
+Anse:0
+Achicourt:0
+Talange:0
+Les Andelys:0
+Jouy en Josas:0
+Malzéville:0
+Rochefort du Gard:0
+Lure:0
+Monts:0
+Cappelle la Grande:0
+Houplines:0
+Salles:0
+Langueux:0
+Romagnat:0
+Paray Vieille Poste:0
+Gargenville:0
+Claix:0
+Isle:0
+Martignas sur Jalle:0
+Le Soler:0
+Montreuil Juigné:0
+Bassens:0
+Gérardmer:0
+L'Aigle:0
+Tignieu Jameyzieu:0
+Pézenas:0
+Villars:0
+Falaise:0
+Verrieres en Anjou:0
+Wavrin:0
+Thann:0
+Hettange Grande:0
+Guénange:0
+Ballancourt sur Essonne:0
+La Couronne:0
+Saint Rémy les Chevreuse:0
+Les Avenieres Veyrins Thuellin:0
+Bellegarde:0
+Baillargues:0
+Lys Haut Layon:0
+Neuville sur Saone:0
+Saint Marcellin:0
+Tullins:0
+Sisteron:0
+Langres:0
+Jaunay Marigny:0
+Cavalaire sur Mer:0
+Saint Etienne de Montluc:0
+Mordelles:0
+Beauzelle:0
+Saint Denis en Val:0
+Corte:0
+Biguglia:0
+Saint Julien de Concelles:0
+Pluvigner:0
+Céret:0
+Publier:0
+Marseillan:0
+Machecoul Saint Meme:0
+Goyave:0
+Noisy le Roi:0
+Noyal Chatillon sur Seiche:0
+Trois Rivieres:0
+Déols:0
+Bompas:0
+Beynes:0
+Gleizé:0
+Remiremont:0
+Rosporden:0
+Nieppe:0
+Geispolsheim:0
+Auxonne:0
+Emerainville:0
+Beaugency:0
+Saint Pierre en Faucigny:0
+Saint Péray:0
+Saint Aubin de Médoc:0
+Faverges Seythenex:0
+Les Arcs:0
+Hasparren:0
+Bain de Bretagne:0
+Moirans:0
+Louveciennes:0
+Sausset les Pins:0
+Contes:0
+Saint Jean de Maurienne:0
+Saint Yrieix sur Charente:0
+Loireauxence:0
+Wissembourg:0
+Chateaubourg:0
+Gourbeyre:0
+La Verpilliere:0
+Digoin:0
+Saint Apollinaire:0
+Fresnes sur Escaut:0
+Vaujours:0
+Ustaritz:0
+Saint Germain les Corbeil:0
+Clisson:0
+Aussonne:0
+Terville:0
+Bidart:0
+Rethel:0
+Ensisheim:0
+Saint Prix:0
+Lagord:0
+Mably:0
+Lesneven:0
+Barlin:0
+Sucé sur Erdre:0
+Saint Nicolas de Port:0
+Mimizan:0
+Pontcharra:0
+Ruelle sur Touvre:0
+Waziers:0
+Saint Berthevin:0
+Bourg Saint Andéol:0
+Saint Jory:0
+Yssingeaux:0
+Langon:0
+Huningue:0
+Toulouges:0
+Villard Bonnot:0
+Moyeuvre Grande:0
+Soisy sur Seine:0
+Crozon:0
+La Ferté Saint Aubin:0
+Pordic:0
+Verneuil d'Avre et d'Iton:0
+Vizille:0
+Lisses:0
+Péronne:0
+Lodeve:0
+Saint Pierre en Auge:0
+Lanton:0
+Roquefort les Pins:0
+Trélissac:0
+Lagnieu:0
+Saint Didier au Mont d'Or:0
+Melesse:0
+Saint Maixent l'Ecole:0
+Montoir de Bretagne:0
+Coulounieix Chamiers:0
+Salazie:0
+Carhaix Plouguer:0
+Sainte Pazanne:0
+Guipry Messac:0
+Eckbolsheim:0
+Fabregues:0
+Parentis en Born:0
+Paimpol:0
+Auby:0
+Bourg Saint Maurice:0
+Chaumes en Retz:0
+Aulnoy lez Valenciennes:0
+Saujon:0
+Cranves Sales:0
+Audun le Tiche:0
+Leforest:0
+Perros Guirec:0
+Saint Pée sur Nivelle:0
+Bailly Romainvilliers:0
+Gieres:0
+Barr:0
+Chauray:0
+Ugine:0
+Ecouen:0
+Herbignac:0
+La Gaude:0
+Villemoisson sur Orge:0
+Sainte Adresse:0
+Saint Christol lez Ales:0
+Manduel:0
+Entre Deux:0
+Le Pian Médoc:0
+Guingamp:0
+Lésigny:0
+Chauvigny:0
+Bétheny:0
+Caudan:0
+La Talaudiere:0
+Balaruc les Bains:0
+Aubigny Les Clouzeaux:0
+Migennes:0
+Jurançon:0
+Divatte sur Loire:0
+Trégunc:0
+Saint Ismier:0
+Fontaines sur Saone:0
+Vendargues:0
+Linas:0
+Houdain:0
+Soultz Haut Rhin:0
+Bourbourg:0
+Colombelles:0
+Vieux Habitants:0
+Labenne:0
+Bagneres de Bigorre:0
+Beaufort en Anjou:0
+Wissous:0
+Escalquens:0
+Liancourt:0
+Uckange:0
+Kervignac:0
+Les Trois Îlets:0
+Notre Dame de Bondeville:0
+Pleurtuit:0
+Orgeval:0
+Trévoux:0
+Rosny sur Seine:0
+Le Mesnil Saint Denis:0
+Le Cateau Cambrésis:0
+Brech:0
+Saint Bonnet de Mure:0
+Quesnoy sur Deûle:0
+Saint Rambert d'Albon:0
+Plédran:0
+Les Trois Bassins:0
+Loos en Gohelle:0
+Divion:0
+Le Coteau:0
+Acigné:0
+Eyguieres:0
+Courtry:0
+Gournay sur Marne:0
+Nérac:0
+Saint André des Eaux:0
+Binic Etables sur Mer:0
+Chessy:0
+Chabeuil:0
+Morteau:0
+Etréchy:0
+Sathonay Camp:0
+Villemandeur:0
+Sénas:0
+Montluel:0
+Saint Yrieix la Perche:0
+Surgeres:0
+Jacou:0
+La Plaine des Palmistes:0
+Courdimanche:0
+Castelnau d'Estrétefonds:0
+Viriat:0
+Essarts en Bocage:0
+Caussade:0
+Gaillon:0
+Nanteuil les Meaux:0
+Gémenos:0
+Valognes:0
+Beuvrages:0
+Pont Saint Martin:0
+Les Essarts le Roi:0
+Nyons:0
+Auvers sur Oise:0
+Honfleur:0
+Grandchamp des Fontaines:0
+Egly:0
+Moëlan sur Mer:0
+Feignies:0
+Carnoux en Provence:0
+Saint Julien les Villas:0
+Loudun:0
+Montfort sur Meu:0
+Saint Pol de Léon:0
+Othis:0
+Douvaine:0
+Domene:0
+Cassis:0
+Le Controis en Sologne:0
+Templeuve en Pévele:0
+Saint Jean d'Angély:0
+Grenay:0
+Ploeren:0
+Bouchemaine:0
+Changé:0
+Montauroux:0
+Plouguerneau:0
+Luisant:0
+Sury le Comtal:0
+Longué Jumelles:0
+Cadaujac:0
+Cambo les Bains:0
+Brindas:0
+Luxeuil les Bains:0
+Noyelles sous Lens:0
+Cournonterral:0
+Montech:0
+Gignac:0
+Le Lorrain:0
+Saint Victoret:0
+Puilboreau:0
+Bouillante:0
+Saint Pierre d'Oléron:0
+La Bassée:0
+Rives:0
+Neuves Maisons:0
+Loriol sur Drome:0
+Gueugnon:0
+Ambert:0
+Saint Jean Bonnefonds:0
+Itteville:0
+Saint Juéry:0
+Thones:0
+La Mulatiere:0
+Champigneulles:0
+Eu:0
+Marsillargues:0
+Epone:0
+Bouffémont:0
+Saulx les Chartreux:0
+Neufchateau:0
+Les Abrets en Dauphiné:0
+Inzinzac Lochrist:0
+La Penne sur Huveaune:0
+Veigné:0
+Meung sur Loire:0
+Gigean:0
+Joeuf:0
+Vallons de l'Erdre:0
+Saint Maurice l'Exil:0
+Laneuveville devant Nancy:0
+Le Perray en Yvelines:0
+Saint Rémy:0
+Labruguiere:0
+Fronton:0
+Canohes:0
+Marange Silvange:0
+Castries:0
+Villers Saint Paul:0
+Cognin:0
+Chalonnes sur Loire:0
+Brioude:0
+Frouard:0
+Laudun l'Ardoise:0
+Eaunes:0
+Lentilly:0
+Le Péage de Roussillon:0
+Saint Laurent Blangy:0
+Estaires:0
+Sainte Livrade sur Lot:0
+La Montagne:0
+Vigneux de Bretagne:0
+Cuincy:0
+Héric:0
+La Tronche:0
+Bréal sous Montfort:0
+Condom:0
+Cormontreuil:0
+Bonsecours:0
+Louhans:0
+Saint Alban:0
+L'Arbresle:0
+Mehun sur Yevre:0
+Péronnas:0
+Ares:0
+Elven:0
+Behren les Forbach:0
+Limours:0
+Saint Alban Leysse:0
+Saint Flour:0
+Saint Florent sur Cher:0
+Longpont sur Orge:0
+Labarthe sur Leze:0
+Le Mené:0
+Montauban de Bretagne:0
+Embrun:0
+Esbly:0
+Marignier:0
+Sevremont:0
+Avallon:0
+Thyez:0
+Ceyrat:0
+Chasse sur Rhone:0
+Saint Pathus:0
+Wimereux:0
+Ploudalmézeau:0
+Lezoux:0
+Louvroil:0
+Champagne sur Seine:0
+Jassans Riottier:0
+Sciez:0
+Plonéour Lanvern:0
+Gouesnou:0
+Givet:0
+Saint André de Sangonis:0
+La Bouilladisse:0
+Vezin le Coquet:0
+Longuenée en Anjou:0
+Entrelacs:0
+Le Mesnil le Roi:0
+Izon:0
+Arpajon sur Cere:0
+Horbourg Wihr:0
+Nandy:0
+Chatel Guyon:0
+Auneau Bleury Saint Symphorien:0
+Saint Jorioz:0
+Trans en Provence:0
+Poussan:0
+Mornant:0
+Mazan:0
+Hombourg Haut:0
+Saint Thibault des Vignes:0
+Lutterbach:0
+Terrasson Lavilledieu:0
+Saint Marcel les Valence:0
+Lallaing:0
+Saint Girons:0
+Homécourt:0
+Bellevigny:0
+Mer:0
+Fouquieres les Lens:0
+Bon Encontre:0
+Pecquencourt:0
+Baud:0
+Chatuzange le Goubet:0
+Chatelaillon Plage:0
+Plescop:0
+Aire sur l'Adour:0
+Le Lavandou:0
+Petite Rosselle:0
+Bonchamp les Laval:0
+Vouneuil sous Biard:0
+Quiévrechain:0
+Esvres:0
+Le Blanc:0
+Combourg:0
+Saint Marcel:0
+Migné Auxances:0
+Bouillargues:0
+Saint Pryvé Saint Mesmin:0
+La Verriere:0
+Saint Genest Lerpt:0
+Loches:0
+Corbie:0
+Marennes Hiers Brouage:0
+Mallemort:0
+Aurec sur Loire:0
+Villemur sur Tarn:0
+Thue et Mue:0
+Ambilly:0
+Saint Priest en Jarez:0
+Jonage:0
+Livarot Pays d'Auge:0
+Condé en Normandie:0
+Magnanville:0
+Hersin Coupigny:0
+Chatenoy le Royal:0
+Mesnils sur Iton:0
+La Chevroliere:0
+Malaunay:0
+Pluneret:0
+Thoiry:0
+Saint Quentin Fallavier:0
+Prades:0
+Trith Saint Léger:0
+Octeville sur Mer:0
+Pavilly:0
+Noyal sur Vilaine:0
+Prades le Lez:0
+Calvisson:0
+Pont de Chéruy:0
+Grézieu la Varenne:0
+Mutzig:0
+Menucourt:0
+Vaugneray:0
+Lucciana:0
+Algrange:0
+Pierrefeu du Var:0
+Ludres:0
+Feytiat:0
+Saint Mandrier sur Mer:0
+Saint Martin de Seignanx:0
+Guer:0
+Franqueville Saint Pierre:0
+Mortagne sur Sevre:0
+Courthézon:0
+Saint Denis les Bourg:0
+Raon l'Etape:0
+Saint Just en Chaussée:0
+Commentry:0
+Le Barcares:0
+Vendenheim:0
+Loon Plage:0
+Belin Béliet:0
+Lavelanet:0
+Ciboure:0
+Furiani:0
+Maule:0
+Sainte Sigolene:0
+Blanzy:0
+Fleurance:0
+Montdidier:0
+Quint Fonsegrives:0
+Luc la Primaube:0
+Dourges:0
+Sains en Gohelle:0
+Vexin sur Epte:0
+Milhaud:0
+Saint Jean de Boiseau:0
+Oraison:0
+Bois le Roi:0
+Roost Warendin:0
+Saint Symphorien d'Ozon:0
+Dompierre sur Mer:0
+Haute Goulaine:0
+Tain l'Hermitage:0
+Bruguieres:0
+Donzere:0
+Gond Pontouvre:0
+Le Palais sur Vienne:0
+Ablon sur Seine:0
+Naintré:0
+Gournay en Bray:0
+Champagne au Mont d'Or:0
+Mûrs Erigné:0
+Meyreuil:0
+Sarrians:0
+Saint Zacharie:0
+Vaison la Romaine:0
+Mouroux:0
+Buc:0
+Montmorillon:0
+Saint Martin lez Tatinghem:0
+Canéjan:0
+Sollies Toucas:0
+Bons en Chablais:0
+Noyelles Godault:0
+Port la Nouvelle:0
+Melle:0
+Saint Cyr au Mont d'Or:0
+Aubignan:0
+La Wantzenau:0
+Fayence:0
+Gévezé:0
+Pointe Noire:0
+Vias:0
+Palavas les Flots:0
+Blainville sur Orne:0
+Saint Arnoult en Yvelines:0
+Benfeld:0
+Thizy les Bourgs:0
+Bricquebec en Cotentin:0
+Roquefort la Bédoule:0
+Grand Charmont:0
+Ondres:0
+Noves:0
+Fontenilles:0
+Simiane Collongue:0
+Mourenx:0
+Lesparre Médoc:0
+Saint Galmier:0
+Le Poinçonnet:0
+Aixe sur Vienne:0
+Doullens:0
+Montpon Ménestérol:0
+Le Puy Sainte Réparade:0
+Saintry sur Seine:0
+Ostricourt:0
+Marnaz:0
+Bellevigne en Layon:0
+Saint Martin le Vinoux:0
+Saint Pierre d'Irube:0
+Saint Denis de Pile:0
+Saint Mitre les Remparts:0
+Mazé Milon:0
+Revin:0
+Jouars Pontchartrain:0
+Annezin:0
+Clapiers:0
+Lannemezan:0
+Nogent sur Seine:0
+Briec:0
+Montval sur Loir:0
+Fismes:0
+Nieul sur Mer:0
+Douvrin:0
+Magny en Vexin:0
+Plouay:0
+Seloncourt:0
+Grand Champ:0
+Saint André de la Roche:0
+Erdre en Anjou:0
+Bédarieux:0
+Fegersheim:0
+Rabastens:0
+Wasselonne:0
+Riantec:0
+Ensues la Redonne:0
+Longueau:0
+Dol de Bretagne:0
+Gannat:0
+Fontenay Trésigny:0
+Coursan:0
+Aimargues:0
+Saint Hilaire du Harcouët:0
+Eschau:0
+Calvi:0
+Negrepelisse:0
+Carbonne:0
+Chambourcy:0
+La Creche:0
+Valdahon:0
+Boé:0
+Bohain en Vermandois:0
+Mondelange:0
+Bannalec:0
+Lannilis:0
+Carry le Rouet:0
+Aussillon:0
+Wormhout:0
+Dainville:0
+Valdalliere:0
+Liverdun:0
+Le Diamant:0
+Arradon:0
+Marly la Ville:0
+Delle:0
+Mondonville:0
+Saleilles:0
+Marolles en Hurepoix:0
+Roye:0
+L'Isle d'Espagnac:0
+Cuges les Pins:0
+Santes:0
+Oye Plage:0
+Le Barp:0
+Saint Cannat:0
+Rungis:0
+Kembs:0
+Flers en Escrebieux:0
+Sainghin en Weppes:0
+Rives du Loir en Anjou:0
+Viry:0
+Villennes sur Seine:0
+Tournus:0
+Leves:0
+Gan:0
+Saint Laurent de Mure:0
+Vergeze:0
+Saint Martin la Pallu:0
+Challes les Eaux:0
+Peypin:0
+Parmain:0
+Flines lez Raches:0
+Cloyes les Trois Rivieres:0
+Le Port Marly:0
+Altkirch:0
+Papaichton:0
+La Cadiere d'Azur:0
+Saint Gervais les Bains:0
+Saint Georges d'Orques:0
+La Gorgue:0
+Wallers:0
+Pouzauges:0
+Fenouillet:0
+Nouzonville:0
+La Ville aux Dames:0
+Sigean:0
+Beauvoisin:0
+Port Louis:0
+Ernée:0
+Bessan:0
+Nueil les Aubiers:0
+Ambazac:0
+Beaucouzé:0
+Oberhausbergen:0
+Gray:0
+Montrond les Bains:0
+Epernon:0
+Guines:0
+Ille sur Tet:0
+Piolenc:0
+Chevreuse:0
+Saint Sébastien de Morsent:0
+Fenain:0
+Missillac:0
+Sausheim:0
+Roquemaure:0
+Etoile sur Rhone:0
+Boulay Moselle:0
+Genay:0
+Beaurains:0
+Lardy:0
+Chanverrie:0
+Ternay:0
+Noyant Villages:0
+Montbonnot Saint Martin:0
+Le Cendre:0
+Marles les Mines:0
+Foulayronnes:0
+Ventabren:0
+Saint Martin d'Uriage:0
+Arnage:0
+Saint Privat des Vieux:0
+Aubigny sur Nere:0
+Pourrieres:0
+Chazelles sur Lyon:0
+Orgeres:0
+Pont Eveque:0
+Calonne Ricouart:0
+Sauvian:0
+Villabé:0
+Chagny:0
+Sillingy:0
+Ligné:0
+La Roquette sur Siagne:0
+Quincy Voisins:0
+Cancale:0
+Saint Memmie:0
+Neuville de Poitou:0
+Caumont sur Durance:0
+Rocbaron:0
+Saint Pierre les Nemours:0
+Reichshoffen:0
+Trebes:0
+Coulogne:0
+Ploumagoar:0
+Bédarrides:0
+Borderes sur l'Echez:0
+Pollestres:0
+La Ferriere:0
+Les Achards:0
+Cilaos:0
+Audruicq:0
+Viarmes:0
+Saint Xandre:0
+Chatillon sur Seine:0
+Aiffres:0
+Heillecourt:0
+La Roque d'Anthéron:0
+Marcheprime:0
+Parigné l'Eveque:0
+Rosheim:0
+Le Pellerin:0
+Erquinghem Lys:0
+Crégy les Meaux:0
+Plouhinec:0
+Ludon Médoc:0
+Dechy:0
+Coublevie:0
+Servian:0
+Saint Michel Chef Chef:0
+Garéoult:0
+Le Boulou:0
+Saint Astier:0
+Commercy:0
+La Garnache:0
+Farébersviller:0
+Ollainville:0
+Charbonnieres les Bains:0
+Nuits Saint Georges:0
+Marsannay la Cote:0
+Bethoncourt:0
+Cessy:0
+Mouy:0
+Fleury sur Orne:0
+Saint Genis les Ollieres:0
+Wervicq Sud:0
+Saint Mars du Désert:0
+Jonquieres:0
+Drusenheim:0
+Mouguerre:0
+Le Castellet:0
+Vindry sur Turdine:0
+Bléré:0
+Grans:0
+Barberaz:0
+Plessé:0
+Loison sous Lens:0
+Le Lion d'Angers:0
+Vic le Comte:0
+Guémené Penfao:0
+Drap:0
+Valdoie:0
+Villers le Lac:0
+Scaër:0
+Peyrolles en Provence:0
+Mormant:0
+Saint Chéron:0
+Mulsanne:0
+Mériel:0
+Gambsheim:0
+Villette d'Anthon:0
+Rousset:0
+Gauchy:0
+Ferriere la Grande:0
+Aÿ Champagne:0
+Le Val d'Hazey:0
+Le Rove:0
+Champniers:0
+Longuyon:0
+L'Hopital:0
+Baisieux:0
+Mignaloux Beauvoir:0
+Dives sur Mer:0
+Villerest:0
+Saint Georges de Didonne:0
+Cormelles le Royal:0
+Brebieres:0
+La Balme de Sillingy:0
+Hauts de Bienne:0
+Genlis:0
+Levens:0
+Séméac:0
+Sully sur Loire:0
+Tourves:0
+Condat sur Vienne:0
+Faulquemont:0
+Decize:0
+Cazouls les Béziers:0
+Pulnoy:0
+Chateaulin:0
+Pont Sainte Marie:0
+Seichamps:0
+Vernaison:0
+Locmaria Plouzané:0
+Villeneuve sur Yonne:0
+Laillé:0
+Cucq:0
+Penmarch:0
+Marquise:0
+Saint Saturnin les Avignon:0
+Forcalquier:0
+La Ferté Macé:0
+Roques:0
+Souppes sur Loing:0
+Briare:0
+Bretignolles sur Mer:0
+Decazeville:0
+Garons:0
+Saint Lyphard:0
+Mamers:0
+Pauillac:0
+Reyrieux:0
+Maen Roch:0
+Douvres la Délivrande:0
+Gruissan:0
+Moulins les Metz:0
+Tresses:0
+Moncoutant sur Sevre:0
+Vaux sur Seine:0
+Chateau Arnoux Saint Auban:0
+Trilport:0
+Luynes:0
+Saint Philippe:0
+Mundolsheim:0
+Mourmelon le Grand:0
+Lestrem:0
+Saint Etienne au Mont:0
+Coubron:0
+Saint Marcellin en Forez:0
+Billy Berclau:0
+Chatillon sur Chalaronne:0
+Petite Foret:0
+Saint Clément de Riviere:0
+Plouigneau:0
+Habsheim:0
+Schweighouse sur Moder:0
+Sainte Marie aux Mines:0
+Rambervillers:0
+Muzillac:0
+Sommieres:0
+Bonnieres sur Seine:0
+Mouilleron le Captif:0
+Baillif:0
+Val de Moder:0
+Lacanau:0
+La Grand Croix:0
+Chavanoz:0
+Florensac:0
+Champagne sur Oise:0
+Villenoy:0
+Surzur:0
+Bogny sur Meuse:0
+Beaucourt:0
+Beaurepaire:0
+Villeneuve en Retz:0
+Pacy sur Eure:0
